@@ -22,12 +22,12 @@ A lightweight, multi-threaded Python CLI application that periodically monitors 
 
 2. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
    ```
 
 3. Run the application:
    ```bash
-   python monitor.py
+   Api monitoring tool.py
    ```
 
 ## Usage
