@@ -1,0 +1,11 @@
+# SQLite database
+*.db
+*.sqlite3
+
+# Python bytecode & cache
+__pycache__/
+*.pyc
+
+# Virtual environments (if you use one)
+venv/
+.venv/
