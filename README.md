@@ -10,13 +10,13 @@ A lightweight, multi-threaded Python CLI application that periodically monitors 
 
 ## Requirements
 - Python 3.8+
-- Dependencies listed in `requirements.txt`
+- Dependencies listed in `requirement.txt`
 
 ## Installation & Setup
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/api-uptime-monitor.git](https://github.com/your-username/api-uptime-monitor.git)
+   git clone [https://github.com/elmarzouguiilias-MRZ/api-uptime-monitor.git](https://github.com/elmarzouguiilias-MRZ/api-uptime-monitor.git)
    cd api-uptime-monitor
    ```
 
